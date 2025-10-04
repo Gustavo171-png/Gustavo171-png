@@ -123,10 +123,6 @@ Atualmente estou cursando Análise e desenvolvimento de sistemas na __UNICID__.
 />
 
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top
+
 
 
